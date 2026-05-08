@@ -1,14 +1,14 @@
 {
-	"name": "candea_backend",
+	"name": "candea-backend",
 	"version": "1.0.0",
 	"description": "",
-	"homepage": "https://github.com/Anniballi-Andrea/Candea_backend#readme",
+	"homepage": "https://github.com/andrea-pugliatti/candea-backend#readme",
 	"bugs": {
-		"url": "https://github.com/Anniballi-Andrea/Candea_backend/issues"
+		"url": "https://github.com/andrea-pugliatti/candea-backend/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Anniballi-Andrea/Candea_backend.git"
+		"url": "git+https://github.com/andrea-pugliatti/candea-backend.git"
 	},
 	"license": "ISC",
 	"author": "",
@@ -20,10 +20,10 @@
 		"clean": "rm -rf node_modules"
 	},
 	"dependencies": {
-		"cors": "^2.8.5",
+		"cors": "^2.8.6",
 		"express": "^5.2.1",
-		"mysql2": "^3.16.0",
-		"nodemailer": "^8.0.5"
+		"mysql2": "^3.22.3",
+		"nodemailer": "^8.0.7"
 	},
-	"packageManager": "pnpm@10.33.1+sha512.05ba3c1d5d1c18f68df06470d74055e62d41fc110a0c660db1b2dfb2785327f04cf0f68345d4609bc52089e7fa0343c31593b2f9594e2c5d5da426230acc9820"
+	"packageManager": "pnpm@11.0.8+sha512.4c4097e1dd2d42372c4e7fa5a791ff28fc75a484c7ac192e64b1df0fdef17594ba982f9b4fed9adfb3c757846f565b799b2763fb3733d1de1bcb82cf46684912"
 }
